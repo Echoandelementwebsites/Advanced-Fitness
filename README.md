@@ -97,3 +97,16 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 The fastest way to combine your favorite tools and APIs to build the fastest sites, stores, and apps for the web. And also the best place to build, deploy, and host your Gatsby sites.
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+## ☁️ Deployment Configuration
+
+This project is configured for deployment on Netlify using the `netlify.toml` file.
+
+**Build Settings:**
+- **Build Command:** `npm run build`
+- **Publish Directory:** `public`
+
+To deploy:
+1. Push your changes to a Git repository.
+2. Connect your repository to Netlify.
+3. Netlify will automatically detect the settings from `netlify.toml`.
